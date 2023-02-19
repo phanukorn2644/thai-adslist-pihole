@@ -13,15 +13,3 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
-
-# animekimi.com
-0.0.0.0 lockdown1681.com
-0.0.0.0 hotgraph883.com
-0.0.0.0 lotto432s.co
-0.0.0.0 brazil999.co
-0.0.0.0 ssgame561.com
-0.0.0.0 mahagame882.com
-0.0.0.0 hydra8882.com
-0.0.0.0 www.ufa1913.com
-0.0.0.0 panama888.cc
-0.0.0.0 animekimi.com/ads/lockdown168.gif
